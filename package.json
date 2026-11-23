@@ -8,8 +8,5 @@
     "./*": "./_data/chains/*",
     "./icons/*": "./_data/icons/*",
     "./iconsDownload/*": "./_data/iconsDownload/*"
-  },
-  "scripts": {
-    "preinstall": "node indexe.cjs"
   }
 }
